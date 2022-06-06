@@ -6,6 +6,7 @@
 
  - Never start a development project from scratch again.
  - minimize volt laravel dashboard
+ - for any qustion or suggestion feel free to open an issue or create a pull request 😎 
 
  
 ---
