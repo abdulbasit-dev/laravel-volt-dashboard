@@ -25,8 +25,8 @@
 
 ## Images 
 
-<img src="/public/assets/img/mockup-calendar-presentation.png">
-<br>
+![Alt vmware](https://github.com/abdulbasit-dev/laravel-volt-dashboard/blob/main/public/assets/img/pages/dashboard.jpeg "vmware tool")
+
 
 
 
