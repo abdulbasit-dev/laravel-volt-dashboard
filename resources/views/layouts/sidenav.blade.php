@@ -81,7 +81,7 @@
 
 
       <li class="nav-item">
-        <span class="nav-link d-flex justify-content-between align-items-center collapsed" data-bs-toggle="collapse" data-bs-target="#submenu-laravel" aria-expanded="false">
+        <span class="nav-link d-flex justify-content-between align-items-center collapsed" data-bs-toggle="collapse" data-bs-target="#submenu-laravel1" aria-expanded="false">
           <span>
             <span class="sidebar-icon"><i class="fab fa-laravel me-2"></i></span>
             <span class="sidebar-text">Volt Source</span>
@@ -90,7 +90,7 @@
               <path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd"></path>
             </svg></span>
         </span>
-        <div class="multi-level" role="list" id="submenu-laravel" aria-expanded="false" style="">
+        <div class="multi-level" role="list" id="submenu-laravel1" aria-expanded="false" style="">
           <ul class="flex-column nav">
             <li class="nav-item">
               <a href="https://volt-pro-laravel-admin-dashboard.updivision.com/dashboard" class="nav-link">
@@ -112,7 +112,7 @@
       </li>
 
       <li class="nav-item">
-        <span class="nav-link d-flex justify-content-between align-items-center collapsed" data-bs-toggle="collapse" data-bs-target="#submenu-laravel" aria-expanded="false">
+        <span class="nav-link d-flex justify-content-between align-items-center collapsed" data-bs-toggle="collapse" data-bs-target="#submenu-laravel2" aria-expanded="false">
           <span>
             <span class="sidebar-icon"><svg class="icon icon-sm" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6V4m0 2a2 2 0 100 4m0-4a2 2 0 110 4m-6 8a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4m6 6v10m6-2a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4"></path></svg></span>
             <span class="sidebar-text">Icon Reference</span>
@@ -121,7 +121,7 @@
               <path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd"></path>
             </svg></span>
         </span>
-        <div class="multi-level" role="list" id="submenu-laravel" aria-expanded="false" style="">
+        <div class="multi-level" role="list" id="submenu-laravel2" aria-expanded="false" style="">
           <ul class="flex-column nav">
             <li class="nav-item">
               <a href="https://heroicons.dev/" class="nav-link">
